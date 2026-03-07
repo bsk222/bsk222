@@ -12,7 +12,7 @@
 
 Developer focused on building tools, experiments and clean projects.
 
-* building things with **JavaScript, Python and C++**
+* building things with **JavaScript, TypeScript, Python, C, C++, C#, Java, Go, Rust, Swift, Kotlin, Dart, PHP, Ruby, Lua, R, MATLAB, Julia, Haskell, Elixir, Scala, Perl, Zig, Nim, Crystal, V, Objective-C, Assembly, Bash, PowerShell, Solidity, GDScript, COBOL, Fortran, Ada, F#, OCaml**
 * interested in **automation, web development and systems**
 * always experimenting with new ideas
 
