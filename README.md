@@ -40,9 +40,8 @@ Developer focused on building tools, experiments and clean projects.
 
 ---
 
-## Contributions
-
-<img src="https://raw.githubusercontent.com/bsk222/bsk222/output/github-contribution-grid-snake-dark.svg"/>
+# Discord
+<a href="https://discord.com/users/1169019510049742928"><img src="https://lanyard.cnrad.dev/api/1169019510049742928?bg=1A1C1F&borderRadius=10px&theme=dark&hideActivity=true&showDisplayName=true" /></a>
 
 ---
 
