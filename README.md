@@ -41,7 +41,7 @@ Developer focused on building tools, experiments and clean projects.
 ---
 
 # Discord
-[![Discord](https://lanyard.cnrad.dev/api/1169019510049742928)](https://discord.com/users/1169019510049742928)
+![Discord](https://dcbadge.limes.pink/api/shield/1169019510049742928)
 
 ---
 
