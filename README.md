@@ -40,11 +40,6 @@ Developer focused on building tools, experiments and clean projects.
 
 ---
 
-# Discord
-![Discord](https://dcbadge.limes.pink/api/shield/1169019510049742928)
-
----
-
 ## Profile Views
 
 ![](https://komarev.com/ghpvc/?username=bsk222\&style=for-the-badge\&color=orange)
