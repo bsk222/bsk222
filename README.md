@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=40&duration=2800&pause=900&color=FF8C3B&center=true&vCenter=true&width=800&lines=BSK222;Full+Stack+Developer;JavaScript+%7C+Python+%7C+C%2B%2B;Building+cool+things+with+code"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=40&duration=2800&pause=900&color=FF8C3B&center=true&vCenter=true&width=800&lines=BSK222;Developer;JavaScript+%7C+Python+%7C+C%2B%2B;Building+cool+things+with+code"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C3B&height=140&section=header"/>
 
