@@ -1,6 +1,5 @@
-markdown
 <div align="center">
-  <h1>bsk222</h1>
+  <h1>BsK</h1>
   <p>Developer & AI Engineer</p>
 </div>
 
