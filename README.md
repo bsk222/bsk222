@@ -1,4 +1,4 @@
-```markdown
+markdown
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=bsk222&fontSize=90&fontColor=FF69B4&animation=twinkling&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20Creator&descAlignY=58&descSize=22&descColor=ffffff" width="100%"/>
 </div>
@@ -64,4 +64,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer" width="100%"/>
 </div>
-```
